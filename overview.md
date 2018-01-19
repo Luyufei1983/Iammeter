@@ -1,3 +1,5 @@
+ <!-- toc -->
+
 ## Our Vision
 
 To save energy and reduce greenhouse gas emissions through our common efforts.

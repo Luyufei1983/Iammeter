@@ -1,4 +1,5 @@
-[TOC]
+<!-- toc -->
+
 ## System framework
 The framework of the iammeter platform and communication process are shown in the following flowchart.
 ![Framework][1]
