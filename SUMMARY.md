@@ -4,6 +4,7 @@
   * [Overview](overview.md)
   * [System Feature](system-feature.md)
   * [System Framework](system-framework.md)
+  * [Service Fee](service-fee.md)
 * [Quickstart](Quickstart.md)
 * [Tutorial](my-vision.md)
   * [Connect a Modbus Meter](my-vision/connect-a-modbus-meter.md)
