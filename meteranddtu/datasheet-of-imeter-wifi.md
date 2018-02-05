@@ -9,7 +9,7 @@
  - 1 RS-485 port
  -  Support standard MODBUS-RTU, good compatibility and easy programming
  -  ESD Protection
- - Wide operating voltage AC80～265,
+ - Wide operating voltage AC80～265V,
  - Reverse connection protection
  - High isolation voltage, DC2000V withstand voltage
 ### 1.2 Technical parameters
