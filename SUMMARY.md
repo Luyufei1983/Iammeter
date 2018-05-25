@@ -11,4 +11,5 @@
   * [Connect the iMeter-W](my-vision/connect-the-imeter-w.md)
 * [Meter&DTU](meteranddtu.md)
   * [Datasheet of iMeter-WiFi](meteranddtu/datasheet-of-imeter-wifi.md)
+* [Contact](contact.md)
 

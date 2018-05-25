@@ -1,14 +1,13 @@
-<!-- toc -->
 
-![Product Image][0]
-
-eBay Link:
+**eBay Link:**
 https://www.ebay.com/itm/132635546075
+
 https://www.ebay.com.au/itm/132635546075
 
 ## 1 Product Introduction
 iMeter-WiFi is highly-integrated, single-phased power meter with Wi-Fi module embedded and 1 RS-485 port, which can measure and transmit the data of specific electricity equipments, such as single-phase AC voltage, current, power etc. It supports MODBUS-RTU protocol.
 iMeter-W can be connected to our energy online monitoring system-*Iammeter* (http://www.iammeter.com/) by one-key setup.
+![Product Image][0]********
 
 ## 2 Installation
 ### 2.1 Wire Connection
