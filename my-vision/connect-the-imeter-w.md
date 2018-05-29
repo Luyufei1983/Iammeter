@@ -1,5 +1,4 @@
-**eBay Link:**  
-
+**eBay Link:**
 
 [https://www.ebay.com/itm/132635546075](https://www.ebay.com/itm/132635546075)
 
@@ -15,7 +14,7 @@ iMeter-W can be connected to our energy online monitoring system-_Iammeter_ \([h
 
 ### 2.1 Wire Connection
 
-iMeter-WiFi can be easily fixed into distribution box. Refer to the below picture for L/N wire and antenna connection.   
+iMeter-WiFi can be easily fixed into distribution box. Refer to the below picture for L/N wire and antenna connection.  
 UL port: Live line  
 UN port: Neutral Line  
 Aerail port on the left bottom: Antenna port  
@@ -41,7 +40,7 @@ Aerail port on the left bottom: Antenna port
 ![](http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180112-4.jpg)  
 **Step5**:,Enter setting page  
 5.1 Connect to home router by clicking "Find AP" or manually input home router's SSID  
-5.2 Input password of home router as "Key"   
+5.2 Input password of home router as "Key"  
 5.3 Click "Save&Reboot"  
 ![](http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180112-5.jpg)  
 Step6: Connect to Netmeter\_xxxxxxxx again, then input IP address [http://11.11.11.1/](http://11.11.11.1/) on browser and click "IP Address". If the meter has obtained the IP address from the home router \(pictured as below\), it means connected successfully.  
@@ -51,7 +50,7 @@ Step6: Connect to Netmeter\_xxxxxxxx again, then input IP address [http://11.11.
 
 **Step1,** Confirm the WiFi setting is correctly done and the internet service is normal for your home wifi network  
 **Step2,** Visit Iammeter website \([http://www.iammeter.com/](http://www.iammeter.com/)\), click "System" on top menu bar, and the login page is shown  
-**Step3,** Click "Sign up", fill up the information on sign up page,   
+**Step3,** Click "Sign up", fill up the information on sign up page,  
 enter the meter SN noted previously into SN column  
 ![](http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180112-7.jpg)  
 **Step4** : Log into _Iammeter_, you can see the meter is already added in the system, click "My place" on the left menu bar to edit the location and time zone information.
@@ -59,8 +58,8 @@ enter the meter SN noted previously into SN column
 > Note: Time zone must be correctly selected or it will affect the data statistics on daily basis.
 
 ![](http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180112-8.jpg)  
-**Step5**, now you can check the online data chart and report on Iammeter.  
-!\[Overview\]\[9\]
+**Step5**, now you can check the online data chart and report on Iammeter.
+![Overview][9]
 
-\[9\]:[http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180111-1.jpg](http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180111-1.jpg)
+[9]:[http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180111-1.jpg]
 
