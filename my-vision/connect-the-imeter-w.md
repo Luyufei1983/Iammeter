@@ -29,9 +29,7 @@ See below work flow of iMeter-WiFi:
 
 1. Quick Wi-Fi setup to connect the iMeter-WiFi to your home Wi-Fi network;
 2. iMeter-WiFi upload the real-time data to Iammeter Cloud;
-3. View your data via Iammeter platform \(
-   [https://www.iammeter.com](https://www.iammeter.com/)
-   \) or mobile Android/IOS app.
+3. View your data via Iammeter platform \([https://www.iammeter.com](https://www.iammeter.com/)\) or mobile Android/IOS app.
 
 ## 3 Installation
 
@@ -41,15 +39,11 @@ Quick and easy installation.
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-f4ae519ecdd4d0d0.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "How to install.jpg")
 
-
-
 ## 4 WiFi Setup
 
 Very few steps to finish Wi-Fi setup.
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-02fdcc902c9c99f7.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "wifi setup.jpg")
-
-
 
 1. Use your smart device's Wi-Fi connection setup, connect to the iMeter's network, which will show up as iMeter\_xxxxxxxx \(xxxxxxxx is unique SN of iMeter\). No password required.
 
@@ -71,8 +65,6 @@ Very few steps to finish Wi-Fi setup.
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-bd0b9935d6037838.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "Configuration.png")
 
-
-
 ### 4 Iammeter Platform
 
 Iammete platform:[https://www.iammeter.com](https://www.iammeter.com/), is an energy online monitoring&analysis IoT platform. All power meters which support standard Modbus protocol can be connected to Iammeter by few steps of setup. After then you can enjoy the online function of Iammeter:  
@@ -86,8 +78,6 @@ Iammete platform:[https://www.iammeter.com](https://www.iammeter.com/), is an en
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-357c2e79a5379cc9.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "image.png")
 
-
-
 **Step1,**Confirm the WiFi setting is correctly done and the internet service is normal for your home wifi network  
 **Step2,**Visit Iammeter website \([http://www.iammeter.com/](https://legacy.gitbook.com/book/devicebit/iammeter-devicebit-power-monitoring-platform/edit#)\), click "System" on top menu bar, and the login page is shown
 
@@ -95,11 +85,7 @@ Iammete platform:[https://www.iammeter.com](https://www.iammeter.com/), is an en
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-46ce10abac83a573.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "Sign up.jpg")
 
-
-
 ![](https://upload-images.jianshu.io/upload_images/5875248-282a6fcae724c905.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "image")
-
-
 
 **Step4**: Log into_Iammeter_, you can see the meter is already added in the system, click "My place" on the left menu bar to set your location and time zone.
 
@@ -107,17 +93,11 @@ Iammete platform:[https://www.iammeter.com](https://www.iammeter.com/), is an en
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-eeb5d13e7af092b5.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "image")
 
-
-
 **Step5**, now you can check the online data chart and report on Iammeter.
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-cfd216d214ed0e74.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "image")
 
-
-
 ![](https://upload-images.jianshu.io/upload_images/5875248-efeca228df85235f.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "iammeter-2.jpg")
-
-
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-c23b99fae82bc69d.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "image.png")
 
@@ -129,13 +109,9 @@ Scan the QRcode to dowoload Android/IOS app or search "iammeter" in Google Play 
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-257298e89b0c9cf6.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "app download.jpg")
 
-
-
 View your data by mobile app
 
 ![](https://upload-images.jianshu.io/upload_images/5875248-ae806da7ebde942d.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "Mobile appx4.jpg")
-
-
 
 ## Certifications
 
