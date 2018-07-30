@@ -6,6 +6,8 @@
 
 [https://www.alibaba.com/product-detail/Bi-directional-energy-monitor-wifi-din\_60811222467.html](https://www.alibaba.com/product-detail/Bi-directional-energy-monitor-wifi-din_60811222467.html)
 
+
+
 ## 1 Product Introduction
 
 iMeter-WiFi is highly-integrated, single-phased power meter with Wi-Fi module embedded and 1 RS-485 port, which can measure and transmit the data of specific electricity equipments, such as single-phase AC voltage, current, power etc. It supports MODBUS-RTU protocol.  
@@ -35,7 +37,7 @@ Aerail port on the left bottom: Antenna port
 
 > Note: Note down the Meter SN for later registration on _Iammeter_.
 
-![](http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180112-3.jpg)   
+![](http://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iMeter-lewei50-20180112-3.jpg)  
 **Step2**, Connect to WiFi signal  
 **Step3**, Open the browser\(IE, Chrome, Firefox...\) and type in [http://11.11.11.1/](http://11.11.11.1/)  
 **Step4**, Type the username and password \(Username:admin,Password:admin\)  
