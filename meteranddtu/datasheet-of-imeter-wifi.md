@@ -1,4 +1,4 @@
-<!-- toc -->
+<toc>
 
 ![Product Image][1]
 ## 1 Technical Specification
