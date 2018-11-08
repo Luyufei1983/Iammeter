@@ -1,4 +1,4 @@
-<!-- toc -->
+<toc>
 
 
 All power meter which supports Modbus RTU protocol can be connected to *Iammeter*. 
